@@ -39,7 +39,7 @@ pkg update && pkg install git -y
 ```
 git clone https://github.com/onxx-x143/Termux-pro-banner.git
 cd Termux-pro-banner
-chmod +x main..py
+chmod +x main.py
 python3 main.py
 ```
 ## 🚀 Direct install 
